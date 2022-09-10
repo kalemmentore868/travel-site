@@ -1,0 +1,2 @@
+# travel-site
+#A travel website where users could view available properties and, once logged in, they could also book the specific properties for a specified timeframe. If a user were to log in as an admin they would be able to perform CRUD operations on the various properties as well. This project was created following the principles of MVC. The chosen framework for this project was express where handlebars was used as the templating engine and Postgres was used as the database. Cloudinary was also utilized to allow admin users to upload image files to the website
